@@ -68,49 +68,7 @@ canonical: https://sociospatial.ge
             
    <div class="mb-60"></div>
 	
-	<!-- HEADER -->
-      <div class="header-style-3">
-        <div class="container">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6">
-              <figure>
-                <img src="{{ BASE_PATH }}/assets/images/bg/hero-2.png" alt="">
-              </figure>
-            </div>
-            <div class="col-xs-12 col-sm-6">
-              <div class="hero-content-v2">
-                <h3>100+ UI Components <strong>Ready for any web projects</strong></h3>
-                <a href="{{ BASE_PATH }}/components" class="btn btn-lg btn-default-filled animated fadeInUp">Explore All</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>	
-	<!-- END HEADER -->
-            <div class="mb-60"></div>
-	
-      <div class="container">
-        <h4 class="sub-title space-left">Mobile scroll blog carousel</h4>
-      </div>
-
-      <!-- posts carousel -->
-      <section id="blog">
-        <div class="container">                              
-          <div id="posts-carousel" class="owl-carousel">
-           {% for post in site.posts %}     
-            <div class="blog-block blog block carousel-post">
-             {% if post.img %}           
-              <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
-             {% endif %}           
-              <h5>{{ post.title }}</h5>
-              <p>{{ post.excerpt }}</p>
-              <a href="{{ BASE_PATH }}{{ post.url }}">Full Article <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
-           {% endfor %}     
-          </div>              
-        </div>
-      </section>
-      
+ 
       <div class="mb-60"></div>
 	
       <!-- Team Members 04 -->	
