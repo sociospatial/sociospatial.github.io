@@ -1,3 +1,9 @@
+---
+title: About
+permalink: /about/
+---
+
+
 Over the past fifteen years, Georgia’s two largest cities of Batumi and Tbilisi have experienced overwhelming urban transformations in the form of building demolitions, extensive renovations, and new construction. A significant portion of the latter has been two specific types of private-sector urban development: large, iconic flagship projects (over 75,000m², greater than 20-storeys, and/or more than 120 million GEL) and medium-large residential infill projects (20,000-74,000m², 10-19-storeys, and/or 50-119 million  GEL). 
 
 These project types have changed the landscapes of Batumi and Tbilisi by increasing neighborhood densities, introducing new architectural design aesthetics, shifting existing socio-economic structures, overturning existing regulatory restrictions, and at times changing programmatic uses. Led by private-sector developers from both within and outside Georgia, they further reflect the rise of such actors as new authorities driving urban development in the country. _Socio-Spatial Georgia_ develops a detailed analysis of the impacts of such projects and systematically explains their underlying causes.
