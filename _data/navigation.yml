@@ -2,11 +2,11 @@
 main:
   - title: "SRNSF"
     url: https://rustaveli.org.ge/
- - title: "About"
+  - title: "About"
     url: /about/
- - title: "Team"
+  - title: "Team"
     url: /team/
- - title: "Aims"
+  - title: "Aims"
     url: /aims/
   # - title: "Sitemap"
   #   url: /sitemap/
