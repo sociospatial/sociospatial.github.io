@@ -82,15 +82,6 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
-# header
-
-header:
-  overlay_image: /assets/img/splash_batumi.jpg
-  caption: "Photo credit: [**Wikimedia commons**](https://upload.wikimedia.org/wikipedia/commons/3/39/Seaside_of_Batumi.jpg)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
-
 
 # Social Sharing
 twitter:
