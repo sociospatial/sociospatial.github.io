@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "SOCIO-SPATIAL GEORGIA"
 title_separator          : "-"
-subtitle                 : "Examining the Social Impacts of Large, Private Sector Urban Development in Batumi and Tbilisi"
+subtitle                 : # "Examining the Social Impacts of Large, Private Sector Urban Development in Batumi and Tbilisi"
 name                     : "Sociospatial Georgia"
 description              : "Socio-Spatial Georgia currently focuses on the country\'s two largest cities of Batumi and Tbilisi. Research findings pertaining to each city will be added here as the project progresses. Please check back regularly for updates."
 url                      : "https://sociospatial.ge"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Socio-spatial Georgia"
   avatar           : "/assets/img/rustaveli_logo.png"
-  bio              : "Socio-Spatial Georgia currently focuses on the country\'s two largest cities of Batumi and Tbilisi. Project is funded by Rustaveli National Science Foundation of Georgia, grant number FR-18-862"
+  bio              : "The project examines the social impacts of large, private sector urban development in Batumi and Tbilisi. Socio-Spatial Georgia is funded by the Rustaveli National Science Foundation of Georgia under the grant program for fundamental research (grant number FR-18-862). The project is administered by Ivane Javakhishvili Tbilisi State University"
   location         : "Tbilisi, Batumi"
   email            :
   links:
