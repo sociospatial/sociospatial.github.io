@@ -1,3 +1,8 @@
+---
+permalink: /team/
+title: "Team"
+---
+
 __Dr. David Sichinava__ _Principal Investigator_
 David is Assistant Professor of Geography at Tbilisi State University. Periodically, he also teaches at the International Black Sea University. He completed his PhD in Human Geography at Tbilisi State University in 2015. In 2016, Daivd was a Fulbright Visiting Scholar at the University of Colorado-Boulder, working alongside Professor John O'Loughlin. As an assistant professor, David has supervised graduate students, taught various graduate-level research design and methods courses, as well as taught undergraduate courses on world regional geography, the geography of Georgia, and cultural geography. 
 
