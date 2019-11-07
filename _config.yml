@@ -20,7 +20,7 @@ title                    : "SOCIO-SPATIAL GEORGIA"
 title_separator          : "-"
 subtitle                 : "Examining the Social Impacts of Large, Private Sector Urban Development in Batumi and Tbilisi"
 name                     : "Sociospatial Georgia"
-description              : "Socio-Spatial Georgia currently focuses on the country\'s two largest cities of Batumi and Tbilisi. Research findings pertaining to each city will be added here as the project progresses. Please check back regularly for updates."
+description              : "Socio-Spatial Georgia currently focuses on the country’s two largest cities of Batumi and Tbilisi. Research findings pertaining to each city will be added here as the project progresses. Please check back regularly for updates."
 url                      : "https://sociospatial.ge"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sociospatial"
@@ -158,7 +158,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -292,10 +292,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
