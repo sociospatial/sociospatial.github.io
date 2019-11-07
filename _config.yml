@@ -20,7 +20,7 @@ title                    : "SOCIO-SPATIAL GEORGIA"
 title_separator          : "-"
 subtitle                 : "Examining the Social Impacts of Large, Private Sector Urban Development in Batumi and Tbilisi"
 name                     : "Sociospatial Georgia"
-description              : "Socio-Spatial Georgia currently focuses on the country’s two largest cities of Batumi and Tbilisi. Research findings pertaining to each city will be added here as the project progresses. Please check back regularly for updates."
+description              : "Socio-Spatial Georgia currently focuses on the country\'s two largest cities of Batumi and Tbilisi. Research findings pertaining to each city will be added here as the project progresses. Please check back regularly for updates."
 url                      : "https://sociospatial.ge"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sociospatial"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Socio-spatial Georgia"
+  avatar           : "/assets/img/rustaveli_logo.png"
+  bio              : "Socio-Spatial Georgia currently focuses on the country\'s two largest cities of Batumi and Tbilisi. Project is funded by Rustaveli National Science Foundation of Georgia, grant number FR-18-862"
+  location         : "Tbilisi, Batumi"
   email            :
   links:
     - label: "Email"
