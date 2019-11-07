@@ -19,3 +19,7 @@ Suzanne is a PhD Candidate at the Massachusetts Institute of Technology’s (MIT
 __Nino Mzhavanadze__ _Project coordinator_
 
 Nino currently works at the Caucasus Research Resource Center (CRRC-Georgia) as a junior researcher. She holds a Masters Degree in Sociology from Tbilisi State University. Prior to CRRC, Nino participated in the 2014 National Census of Georgia as an organizer and supervisor responsible for quality data collection in Tbilisi’s selected neighborhoods.
+
+__Dr.-Ing. Carola Neugebauer__ _Foreign Advisor_
+
+Carola is Associate Professor at RWTH Aachen University in Germany. She has a strong background studying urban transformations, planning and cultural heritage in Eurasia with a special emphasis on Central Eastern European and post-Soviet cities. 
