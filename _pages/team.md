@@ -12,7 +12,7 @@ __Dr. David Gogishvili__ _Principal Investigator_
 David received his doctoral degree in Urban Studies and Regional Science at Italy’s Gran Sasso Science Institute in 2017. Subsequently, he joined the Faculty of Geosciences and Environment at University of Lausanne as xxxx. He is currently …
 
 
-__Suzanne Harris-Brandts Principal__ _Investigator_
+__Suzanne Harris-Brandts__ _Principal Investigator_
 
 Suzanne is a PhD Candidate at the Massachusetts Institute of Technology’s (MIT) Department of Urban Studies and Planning in Cambridge, MA, USA. She holds a MArch from the University of Waterloo in Canada and is a licensed Canadian architect. Suzanne has taught at MIT, University of Waterloo, and the International Black Sea University.   She has worked at numerous design and research practices across the globe, including in Toronto, Vancouver, London, the West Bank and Abu Dhabi.   
 
