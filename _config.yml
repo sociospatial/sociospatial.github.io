@@ -113,13 +113,6 @@ author:
   bio              : "The project examines the social impacts of large, private sector urban development in Batumi and Tbilisi. Socio-Spatial Georgia is funded by the Rustaveli National Science Foundation of Georgia under the grant program for fundamental research (grant number FR-18-862). The project is administered by Ivane Javakhishvili Tbilisi State University"
   location         : "Tbilisi, Batumi"
 
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 
 # Site Footer
 footer:
