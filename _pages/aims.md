@@ -19,6 +19,3 @@ __Objective 4__: scrutenize whether the increase of large corporate development 
 
 Socio-Spatial Georgia currently focuses on the country’s two largest cities of Batumi and Tbilisi. Research findings pertaining to each city will be added here as the project progresses. Please check back regularly for updates.
 
-### Resources: 
-
-Large-scale, private-sector development has great impacts on local communities. The following reference content examines these impacts in a range of different geographic contexts and with regards to various development trajectories. These resources are intended to promote a greater understanding of the social impacts of large-scale, private-sector development—particularly in post-socialist cities.
