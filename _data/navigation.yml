@@ -8,5 +8,7 @@ main:
     url: /team/
   - title: "Aims"
     url: /aims/
+  - title: "Resources"
+    url: /res/
   # - title: "Sitemap"
   #   url: /sitemap/
