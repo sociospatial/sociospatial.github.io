@@ -287,7 +287,7 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _portfolio
+  # _blog
   - scope:
       path: ""
       type: blog
