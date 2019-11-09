@@ -291,7 +291,7 @@ defaults:
   # _blog
   - scope:
       path: ""
-      type: portfolio
+      type: blog
     values:
       layout: single
       author_profile: true
