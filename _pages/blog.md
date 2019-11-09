@@ -3,7 +3,7 @@ title: Blog
 layout: collection
 permalink: /blog/
 collection: blog
-layout: single
+classes: single
 sidebar:
   - title: "Sociospatial Georgia"
     image: "assets/img/rustaveli_logo.png"
