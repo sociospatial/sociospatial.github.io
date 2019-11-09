@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "SRNSF"
-    url: https://rustaveli.org.ge/
+  - title: "News"
+    url: /blog/
   - title: "About"
     url: /about/
   - title: "Team"
