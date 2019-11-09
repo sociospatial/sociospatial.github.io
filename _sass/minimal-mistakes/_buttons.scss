@@ -11,7 +11,6 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.5em 1em;
-  color: #bababa;
   font-family: $sans-serif;
   font-size: $type-size-6;
   font-weight: bold;
@@ -31,8 +30,8 @@
 
   /* button colors */
   $buttoncolors:
-  (primary, $primary-color),
-  (inverse, #bababa),
+  (primary, #d3d3d3),
+  (inverse, #fff),
   (light-outline, transparent),
   (success, $success-color),
   (warning, $warning-color),
