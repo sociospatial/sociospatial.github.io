@@ -260,9 +260,10 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/blog/"
+      path: ""
       type: posts
     values:
+      permalink: /:title/
       layout: single
       author_profile: true
       read_time: true
