@@ -1,7 +1,7 @@
 ---
 title: "What do we do?"
 categories:
-  - Blog
+  - blog
 teaser: /assets/img/splash_batumi.jpg
 tags:
   - Post Formats
