@@ -77,7 +77,7 @@
         // instantiate our map
         var map = L.map("map", {
             center: [41.7056845,44.7958754],
-            zoom: 12
+            zoom: 13
         });
 
         // load some tiles
@@ -115,10 +115,10 @@ function makeMap(accidents) {
 
 
                 // designate dimension of cell width
-                var cellWidth = 1
+                var cellWidth = 2
 
                 // designate units for cell width calculation
-                var units = 'km';
+                var units = 'miles';
 
                 // create a featurecollection of hex polygons
                 var hexgrid = turf.hexGrid(bbox, cellWidth, units);
