@@ -3,12 +3,9 @@ permalink: /about/
 title: "About"
 layout: single
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Sociospatial Georgia"
+    image: img/rustaveli_logo.png
+    text: "The project examines the social impacts of large, private sector urban development in Batumi and Tbilisi. Socio-Spatial Georgia is funded by the Rustaveli National Science Foundation of Georgia under the grant program for fundamental research (grant number FR-18-862). The project is administered by Ivane Javakhishvili Tbilisi State University"
 ---
 
 
