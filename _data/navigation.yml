@@ -2,13 +2,11 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "About"
-    url: /about/
   - title: "Team"
     url: /team/
   - title: "Aims"
     url: /aims/
-  - title: "Bibliography"
+  - title: "Resources"
     url: /bibliography/
   # - title: "Sitemap"
   #   url: /sitemap/
