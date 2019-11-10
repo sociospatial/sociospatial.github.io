@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-title: "About"
 layout: single
 sidebar:
   - title: "Sociospatial Georgia"
