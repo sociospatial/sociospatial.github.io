@@ -12,8 +12,7 @@ David is Assistant Professor of Geography at Tbilisi State University. Periodica
 
 __Dr. David Gogishvili__ _Principal Investigator_
 
-David received his doctoral degree in Urban Studies and Regional Science at Italy’s Gran Sasso Science Institute in 2017. Subsequently, he joined the Faculty of Geosciences and Environment at University of Lausanne as xxxx. He is currently …
-
+David received his doctoral degree in Urban Studies and Regional Science with honours at Italy’s Gran Sasso Science Institute in 2017. Subsequently, he joined the University of Lausanne as a postdoctoral researcher where he studied the impact of megaprojects in the urban development of Kazakhstan. Currently, he is a postdoctoral scholar at the Department of Urban Studies at Malmö University where he is carrying out a research project scrutinizing the role of legal exceptions in urban planning. He is focused on the implementation of the real estate megaproject Panorama Tbilisi in Georgia and its surrounding governmental discourses. His research interests involve mega-events, mega-projects, the cities of the Global East and the geopolitics of academic knowledge production. David is a founder of Soviet Past Research Laboratory and Iare Pekhit.
 
 __Suzanne Harris-Brandts__ _Principal Investigator_
 
