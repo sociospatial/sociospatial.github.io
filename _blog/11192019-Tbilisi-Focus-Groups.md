@@ -4,9 +4,9 @@ categories:
   - blog
 teaser: /assets/img/11192019/tbilisi_collage.jpg
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Fieldwork
+  - Tbilisi
+  - Focus groups
 ---
 
 
