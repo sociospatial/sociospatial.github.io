@@ -1,5 +1,6 @@
 ---
 title: "Focus groups in Tbilisi"
+last_modified_at: 2019-11-19T18:30:50-07:00
 categories:
   - blog
 teaser: /assets/img/11192019/tbilisi_collage.jpg
