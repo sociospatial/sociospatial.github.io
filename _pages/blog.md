@@ -1,9 +1,11 @@
 ---
-title: Blog
-layout: collection
-permalink: /blog/
-collection: blog
-classes: single
-sidebar:
-  - text:
+layout: archive
+permalink: /archive/
+author_profile: true
 ---
+
+{% include base_path %}
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
