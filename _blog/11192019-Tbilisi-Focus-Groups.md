@@ -11,4 +11,6 @@ tags:
 ---
 
 
-We held four really interesting focus group meetings last week. We discussed the impacts of large scale urban development in Tbilisi with the local residents. We are excited to share the results soon. More focus groups to follow. We used this collage to kickstart the discussion.
+We held six focus group discussions last week. Together with participants, we discussed how large-scale urban development impacts their lives and how they see the city. Our team is very excited to share the results as they come along. More focus groups, now in Batumi are to follow! We used this collage to warm up our discussions.
+
+[](/assets/img/11192019/tbilisi_collage.jpg)
