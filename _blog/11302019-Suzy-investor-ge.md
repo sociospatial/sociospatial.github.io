@@ -1,6 +1,6 @@
 ---
 title: "Suzanne Harris-Brandts interviewed on Batumi's urban development"
-last_modified_at: 2019-11-30T18:30:50-07:00
+last_modified_at: 2019-11-30T18:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/11302019/investor_ge.png
