@@ -1,5 +1,5 @@
 ---
-title: "New publications from our team members"
+title: "Green Mobilizations Conference in Bishkek and Tbilisi"
 last_modified_at: 2019-12-12T18:30:50-04:00
 categories:
   - blog
