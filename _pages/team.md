@@ -9,15 +9,17 @@ sidebar:
 
 __Dr. David Sichinava__ _Principal Investigator_
 
-David is Assistant Professor of Geography at Tbilisi State University. Periodically, he also teaches at the International Black Sea University. He completed his PhD in Human Geography at Tbilisi State University in 2015. In 2016, Daivd was a Fulbright Visiting Scholar at the University of Colorado-Boulder, working alongside Professor John O'Loughlin. As an assistant professor, David has supervised graduate students, taught various graduate-level research design and methods courses, as well as taught undergraduate courses on world regional geography, the geography of Georgia, and cultural geography. 
+David is Research Director at CRRC-Georgia, Tbilisi-based research organization. He worked as Assistant Professor of Geography at Tbilisi State University and has taught at the International Black Sea University and the International School of Economics at TSU (ISET). He completed his PhD in Human Geography at Tbilisi State University in 2015. In 2016, Daivd was a Fulbright Visiting Scholar at the University of Colorado-Boulder, working alongside Professor John O'Loughlin. As an assistant professor, David has supervised graduate students, taught various graduate-level research design and methods courses, as well as taught undergraduate courses on world regional geography, the geography of Georgia, and cultural geography. 
 
 __Dr. David Gogishvili__ _Principal Investigator_
 
 David received his doctoral degree in Urban Studies and Regional Science with honours at Italy’s Gran Sasso Science Institute in 2017. Subsequently, he joined the University of Lausanne as a postdoctoral researcher where he studied the impact of megaprojects in the urban development of Kazakhstan. Currently, he is a postdoctoral scholar at the Department of Urban Studies at Malmö University where he is carrying out a research project scrutinizing the role of legal exceptions in urban planning. He is focused on the implementation of the real estate megaproject Panorama Tbilisi in Georgia and its surrounding governmental discourses. His research interests involve mega-events, mega-projects, the cities of the Global East and the geopolitics of academic knowledge production. David is a founder of Soviet Past Research Laboratory and Iare Pekhit.
 
-__Suzanne Harris-Brandts__ _Principal Investigator_
+__Dr. Suzanne Harris-Brandts__ _Principal Investigator_
 
-Suzanne is a PhD Candidate at the Massachusetts Institute of Technology’s (MIT) Department of Urban Studies and Planning in Cambridge, MA, USA. She holds a MArch from the University of Waterloo in Canada and is a licensed Canadian architect. Suzanne has taught at MIT, University of Waterloo, and the International Black Sea University.   She has worked at numerous design and research practices across the globe, including in Toronto, Vancouver, London, the West Bank and Abu Dhabi.   
+Suzanne is Assistant Professor of Architecture and Urbanism at Carleton University (Ottawa, Canada). She is also a licensed architect in Ontario and has worked at design-research practices across the globe, including in Toronto, Vancouver, London, the West Bank and Abu Dhabi. She received her PhD in Urban Studies from the Massachusetts Institute of Technology (MIT) and her Master of Architecture from the University of Waterloo. Her research brings together design and the social sciences to explore issues of power, equity, and collective identity in the built environment, topics she has explored in Eurasia, the Canadian North, and Occupied Palestinian Territories. Suzanne’s current book project, entitled Constructing the Capital, draws from her dissertation research uncovering the politics of urban development and image-making in capital cities. 
+
+ 
 
 __Nino Mzhavanadze__ _Project coordinator_
 
