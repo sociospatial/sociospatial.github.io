@@ -1,6 +1,6 @@
 ---
 title: "New publication on urban activism in Tbilisi by our team members"
-last_modified_at: 2020-03-03T10:30:50-04:00
+date: 2020-03-03T10:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/dom_book_cover.jpg

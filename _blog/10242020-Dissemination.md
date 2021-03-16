@@ -1,6 +1,6 @@
 ---
 title: "Dissemination of our project results"
-last_modified_at: 2020-10-24T10:30:50-04:00
+date: 2020-10-24T10:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/tab.jpg

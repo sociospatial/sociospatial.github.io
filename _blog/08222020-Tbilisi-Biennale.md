@@ -1,6 +1,6 @@
 ---
 title: "Collective Domain Selected to Participate in the 2020 Tbilisi Architecture Biennial"
-last_modified_at: 2020-08-22T10:30:50-04:00
+date: 2020-08-22T10:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/tab.jpg

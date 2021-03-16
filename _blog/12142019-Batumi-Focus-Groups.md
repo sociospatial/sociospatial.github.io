@@ -1,6 +1,6 @@
 ---
 title: "Focus groups in Batumi"
-last_modified_at: 2019-12-14T10:30:50-04:00
+date: 2019-12-14T10:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/batumi_fg.png

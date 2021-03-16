@@ -1,6 +1,6 @@
 ---
 title: "New publications from our team members"
-last_modified_at: 2019-12-12T18:30:50-04:00
+date: 2019-12-12T18:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/12152019/eps_screenshot.png

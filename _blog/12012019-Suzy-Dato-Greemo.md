@@ -1,6 +1,6 @@
 ---
 title: "Green Mobilizations Conference in Bishkek and Tbilisi"
-last_modified_at: 2019-12-12T18:30:50-04:00
+date: 2019-12-12T18:30:50-04:00
 categories:
   - blog
 teaser: /assets/img/12012019/greemo.jpg

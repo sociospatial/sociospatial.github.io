@@ -259,7 +259,7 @@ collections:
   blog:
     output: true
     permalink: /:collection/:path/
-    sort_by: last_modified_at
+    # sort_by: date
     sort_order: reverse
 
 
